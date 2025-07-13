@@ -18,11 +18,12 @@
 * Mat météo : bloc sur un mât au dessus du poulailler
   * capteur de luminosité
   * capteur de température
+  * capteur d'humidité
   * LED rouge
   * LED verte
 * Abreuvoir
   * résistance chauffante PWM
-  * capteur de T°
+  * capteur de T° d'eau
   * capteur de niveau d'eau
 * Interne
   * Mesure T° interne
