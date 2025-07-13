@@ -21,7 +21,15 @@
   * résistance chauffante PWM
   * capteur de T°
   * capteur de niveau d'eau
-* fds
+* Interne
+  * Mesure T° interne
+  * Pilotage FAN aération (TOR)
+  * Lumière interne
+* système
+  * Mesure batterie
+  * RTC
+  * Modbus
+* fd
 
 
 
