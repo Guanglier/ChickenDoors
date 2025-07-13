@@ -29,6 +29,9 @@
   * Mesure batterie
   * RTC
   * Modbus
+  * mémoire EEPROM
+  * LCD 4x40
+  * Boutons
 * fd
 
 
