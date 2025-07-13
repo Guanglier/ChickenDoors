@@ -7,12 +7,21 @@
 
 ## Fonctions
 
-* Gestion porte principale : poteur pas à pas + 2 capteurs fin de course (haut et bas)
+* Gestion porte principale :
   * 1 moteur pas à pas
   * 1 capteur fin de course haut FDC_H
   * 1 capteur fin de course bas FDC_L
 * Gestion porte secondaire : idem principale
-* Mat météo : bloc avec luminosité, humidité, température et LED rouge et verte
+* Mat météo : bloc sur un mât au dessus du poulailler
+  * capteur de luminosité
+  * capteur de température
+  * LED rouge
+  * LED verte
+* Abreuvoir
+  * résistance chauffante PWM
+  * capteur de T°
+  * capteur de niveau d'eau
+* fds
 
 
 
